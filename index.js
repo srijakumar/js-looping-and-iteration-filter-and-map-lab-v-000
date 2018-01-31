@@ -13,7 +13,7 @@ function driverNamesWithRevenueOver(list, revenue){
     }
   )
 }
-<<<<<<< HEAD
+
 
 function exactMatch (drivers, matcher) {
   return drivers.filter(
@@ -35,5 +35,3 @@ function exactMatchToList (drivers, matcher) {
       return driver.name;
     });
 }
-=======
->>>>>>> 2bdf57a0af195c7325be6a1bdcfe6b62b2ba0558
